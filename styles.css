@@ -119,22 +119,17 @@ img{
 @media only screen and (max-width: 400px) {
     body {
         padding: 1rem 1rem;
-        padding: none;
     }
+}
+
+@media only screen and (max-width: 950px) {
+  body {
+      padding: 1rem 6rem;
+  }
 }
 
 @media only screen and (max-width: 1200px) {
     body {
-        padding: 2rem 15rem;
-    }
-}
-@media only screen and (max-width: 950px) {
-    body {
-        padding: 1rem 15rem;
-    }
-}
-@media only screen and (max-width: 600px) {
-    body {
-        padding: 1rem 7rem;
+        padding: 2rem 10rem;
     }
 }
