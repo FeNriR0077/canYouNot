@@ -120,6 +120,12 @@ img{
     body {
         padding: 1rem 1rem;
     }
+    .success-alert{
+      font-size: .7rem;
+    }
+    .success-alert h4{
+      font-size: .8rem;
+    }
 }
 
 @media only screen and (max-width: 950px) {
