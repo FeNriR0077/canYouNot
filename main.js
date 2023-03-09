@@ -13,7 +13,7 @@ form.addEventListener("submit", (e) => {
         setTimeout(() => {
           form.reset() 
           successAlert.style.display = "none";
-        }, 1000);
+        }, 3000);
     }
 
 })
